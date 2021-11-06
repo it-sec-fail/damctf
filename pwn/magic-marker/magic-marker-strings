@@ -1,0 +1,141 @@
+/lib64/ld-linux-x86-64.so.2
+libc.so.6
+srand
+fopen
+puts
+time
+__stack_chk_fail
+stdin
+printf
+fgetc
+fgets
+memset
+stdout
+fclose
+setbuf
+__libc_start_main
+GLIBC_2.4
+GLIBC_2.2.5
+__gmon_start__
+ATU1
+D$(1
+T$(dH3
+0[]A\
+AWAVH
+W<AUATH
+(tnLc
+HcT$
+[]A\A]A^A_
+AWAVL
+AUATA
+(t:D9
+[]A\A]A^A_
+AWAV1
+AUAT
+gfffL
+[]A\A]A^A_
+D$h1
+D$hdH3
+AWAVI
+AUATL
+[]A\A]A^A_
++   
++---
+  %c 
+| %c 
+This room has exits to the 
+North
+East
+South
+West
+On the wall is written: %s
+There's a wall there.
+I'm not sure I understand.
+jump up and down
+flag
+What would you like to do? (w - go north, a - go west, s - go south, d - go east, x - write something, m - show map, q - give up): 
+Your magnificently magestic magic marker magically manifests itself in your hand. What would you like to write?
+Welcome to Zonk, the best text based adventure ever created!
+It's a beautiful day. Birds are singing, and a gentle breeze whistles through the trees. Suddenly, the wind shifts, the birds stop singing, and the ground under your feet begins to feel rather insubstantial.
+What would you like to do?
+Oh no! The ground gives way and you fall into a dark maze.
+Unfortunately, the hole above you is much too high to reach.
+But what's this? There's a piece of paper on the ground!
+It looks like an advertisement for some free flags, and you can just
+barely make out the map that's sketched on the back.
+Free flags are pretty cool, but all you really want to do is get out of this maze!
+Luckily, you brought your magnificently magestic magic marker that
+you can use to write labels on anything!
+Maybe it'll help you find the way out...
+Congratulations! You escaped the maze and got the flag!
+;*3$"
+GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+magic-marker.c
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.7698
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+__FRAME_END__
+__init_array_end
+_DYNAMIC
+__init_array_start
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+__libc_csu_fini
+stdout@@GLIBC_2.2.5
+puts@@GLIBC_2.2.5
+stdin@@GLIBC_2.2.5
+_edata
+generate_maze
+fclose@@GLIBC_2.2.5
+__stack_chk_fail@@GLIBC_2.4
+setbuf@@GLIBC_2.2.5
+printf@@GLIBC_2.2.5
+memset@@GLIBC_2.2.5
+fgetc@@GLIBC_2.2.5
+__libc_start_main@@GLIBC_2.2.5
+srand@@GLIBC_2.2.5
+fgets@@GLIBC_2.2.5
+__data_start
+__gmon_start__
+__dso_handle
+_IO_stdin_used
+time@@GLIBC_2.2.5
+play_maze
+__libc_csu_init
+_dl_relocate_static_pie
+__bss_start
+main
+fopen@@GLIBC_2.2.5
+__TMC_END__
+print_maze
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
