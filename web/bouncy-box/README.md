@@ -16,3 +16,12 @@ Found three directories:
  - /static
 
  Downloaded /static/game.js
+
+ It seems to be a rabithole!
+
+ You can login with SQL Injection
+
+ Username: `' or 1=1--`
+ Password: `' or 1=1--`
+
+ 
