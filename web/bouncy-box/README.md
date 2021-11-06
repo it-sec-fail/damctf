@@ -13,4 +13,6 @@ Found three directories:
  - /login
  - /flag
  - /scoreboard
+ - /static
 
+ Downloaded /static/game.js

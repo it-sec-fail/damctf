@@ -1,0 +1,35 @@
+elem $e0 (i32.const 1) 
+func $f127 $f184 $f183 $f182 $f180 $f352 $f349 $f346 $f345 $f343 $f341 $f340 $f339)
+  (data $d0 (i32.const 1024) "\22{
+    return Module.getRandomValue(); 
+  }\22\00{
+   if (Module.getRandomValue === undefined){
+    try {
+      var window = 'object' === typeof window ? window : self;
+      var crypto = typeof window.crypto !== 'undefined' ? window.crypto : window.msCrypto;
+      var randomValuesStandard = function() {
+        var buf = new Uint32Array(1);
+        crypto.getRandomValues(buf);
+        return buf[0] >>> 0;
+      };
+      randomValuesStandard();
+      Module.getRandomValue = randomValuesStandard;
+    } 
+    catch (e) {
+      try {
+        var crypto = require('crypto');
+        var randomValueNodeJS = function() {
+          var buf = crypto['randomBytes'](4);
+          return (buf[0] << 24 | buf[1] << 16 | buf[2] << 8 | buf[3]) >>> 0;
+        };
+        randomValueNodeJS();
+        Module.getRandomValue = randomValueNodeJS; 
+      } 
+      catch (e) {
+        throw 'No secure random number generator found';
+      }
+    }
+  }
+}
+\00LibsodiumDRGbuf_len <= SIZE_MAX\00randombytes/randombytes.c\00randombytes\00S->buflen <= BLAKE2B_BLOCKBYTES\00crypto_generichash/blake2b/ref/blake2b-ref.c\00blake2bfinal\00\00\00\00\00\00\00\00\08\c9\bc\f3g\e6\09j;\a7\ca\84\85\aeg\bb+\f8\94\fer\f3n<\f16\1d:\f5O\a5\d1\82\e6\ad\7fR\0eQ\1fl>+\8ch\05\9bk\bdA\fb\ab\d9\83\1fy!~\13\19\cd\e0[outlen <= UINT8_MAX\00crypto_generichash/blake2b/ref/generichash_blake2b.c\00crypto_generichash_blake2b_final\00\00\00\00\00\00\00\b6xY\ff\85r\d3\00\bdn\15\ff\0f\0aj\00)\c0\01\00\98\e8y\ff\bc<\a0\ff\99q\ce\ff\00\b7\e2\fe\b4\0dH\ff\00\00\00\00\00\00\00\00\b0\a0\0e\fe\d3\c9\86\ff\9e\18\8f\00\7fi5\00`\0c\bd\00\a7\d7\fb\ff\9fL\80\feje\e1\ff\1e\fc\04\00\92\0c\ae")
+  (data $d1 (i32.const 2224) "Y\f1\b2\fe\0a\e5\a6\ff{\dd*\fe\1e\14\d4\00R\80\03\000\d1\f3\00wy@\ff2\e3\9c\ff\00n\c5\01g\1b\90")
