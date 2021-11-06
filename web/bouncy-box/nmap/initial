@@ -1,0 +1,19 @@
+# Nmap 7.92 scan initiated Sat Nov  6 10:04:52 2021 as: nmap -sV -sC -oN nmap/initial bouncy-box.chals.damctf.xyz
+Nmap scan report for bouncy-box.chals.damctf.xyz (34.83.90.173)
+Host is up (0.16s latency).
+rDNS record for 34.83.90.173: 173.90.83.34.bc.googleusercontent.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
+|_http-title: Site doesn't have a title (text/plain; charset=utf-8).
+443/tcp open  ssl/http Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
+|_ssl-date: TLS randomness does not represent time
+|_http-title: Bouncy Box
+|_http-server-header: gunicorn
+| ssl-cert: Subject: commonName=*.chals.damctf.xyz
+| Subject Alternative Name: DNS:*.chals.damctf.xyz
+| Not valid before: 2021-11-05T01:17:11
+|_Not valid after:  2022-02-03T01:17:10
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Nov  6 10:05:38 2021 -- 1 IP address (1 host up) scanned in 45.48 seconds
