@@ -9,8 +9,8 @@ Webaddress: bouncy-box.chals.damctf.xyz
  - started a nmap scan `nmap -sV -sC -oN nmap/initial bouncy-box.chals.damctf.xyz`
  - started gobuster `gobuster dir -u https://bouncy-box.chals.damctf.xyz/ -w ~/Documents/Tools/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt | tee gobuster.out`
 
-Found two directories:
+Found three directories:
  - /login
  - /flag
+ - /scoreboard
 
- 

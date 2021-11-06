@@ -13,3 +13,5 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 2021/11/06 10:27:22 Starting gobuster in directory enumeration mode
 ===============================================================
 /login                (Status: 405) [Size: 178]
+/flag                 (Status: 405) [Size: 178]
+/scoreboard           (Status: 200) [Size: 2933]
