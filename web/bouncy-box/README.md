@@ -15,13 +15,14 @@ Found three directories:
  - /scoreboard
  - /static
 
- Downloaded /static/game.js
+Downloaded /static/game.js
 
- It seems to be a rabithole!
+It seems to be a rabithole!
 
- You can login with SQL Injection
+You can login with SQL Injection
 
- Username: `' or 1=1--`
- Password: `' or 1=1--`
+Username: `' or 1=1--`
+Password: `' or 1=1--`
 
- 
+After that, you get a new page, but for the flag you have to login with a second verification.
+
