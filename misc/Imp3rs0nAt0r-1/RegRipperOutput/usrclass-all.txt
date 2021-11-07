@@ -1,0 +1,188 @@
+muicache v.20120522
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache not found.
+
+Local Settings\Software\Microsoft\Windows\Shell\MUICache
+LastWrite Time Thu Jan  1 00:00:00 1970 (UTC)
+
+C:\Windows\System32\fsquirt.exe (fsquirt)
+C:\Windows\system32\WFS.exe (Microsoft  Windows Fax and Scan)
+----------------------------------------
+shellbags v.20130102
+(USRCLASS.DAT) Shell/BagMRU traversal in Win7 USRCLASS.DAT hives
+
+MRU Time             |Modified             | Accessed             | Created              | Zip_Subfolder        |Resource
+------------         |------------         | ------------         | ------------         | ------------         |------------
+                     |                     |                      |                      |                      |Desktop\Libraries
+                     |                     |                      |                      |                      |Desktop\Libraries\Documents Library
+                     |                     |                      |                      |                      |Desktop\Libraries\{2112ab0a-c86a-4ffe-a368-0de96e47012e}
+                     |                     |                      |                      |                      |Desktop\Libraries\{2112ab0a-c86a-4ffe-a368-0de96e47012e}
+(undefined)          |                     |                      |                      |                      |Desktop\Libraries\{2112ab0a-c86a-4ffe-a368-0de96e47012e}\Sample Music
+                     |                     |                      |                      |                      |Desktop\Libraries\Pictures
+                     |                     |                      |                      |                      |Desktop\Libraries\Pictures
+(undefined)          |                     |                      |                      |                      |Desktop\Libraries\Pictures\Sample Pictures
+                     |                     |                      |                      |                      |Desktop\Libraries\Public
+(undefined)          |                     |                      |                      |                      |Desktop\Libraries\Public
+(undefined)          |                     |                      |                      |                      |Desktop\Libraries\Public\Sample Videos
+(undefined)          |                     |                      |                      |                      |Desktop\My Computer
+                     |                     |                      |                      |                      |Desktop\My Computer\C:\
+                     |2009-07-14 03:20:10  | 2009-07-14 03:20:10  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\PerfLogs
+                     |2021-05-09 17:41:16  | 2021-05-09 17:41:16  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\Program Files
+                     |2021-05-09 17:46:10  | 2021-05-09 17:46:10  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\Program Files (x86)
+                     |2021-05-12 23:35:22  | 2021-05-12 23:35:22  | 2021-05-12 23:35:22  |                      |Desktop\My Computer\C:\Program Files (x86)\Steam
+                     |2021-05-12 23:35:22  | 2021-05-12 23:35:22  | 2021-05-12 23:35:22  |                      |Desktop\My Computer\C:\Program Files (x86)\Steam\public
+(undefined)          |2021-05-12 23:35:22  | 2021-05-12 23:35:22  | 2021-05-12 23:35:22  |                      |Desktop\My Computer\C:\Program Files (x86)\Steam\bin
+(undefined)          |2021-05-09 17:46:10  | 2021-05-09 17:46:10  | 2021-05-09 17:46:10  |                      |Desktop\My Computer\C:\Program Files (x86)\Google
+(undefined)          |2021-05-09 17:41:16  | 2021-05-09 17:41:16  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\ProgramData
+(undefined)          |2021-05-12 22:29:10  | 2021-05-12 22:29:10  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\ProgramData\Microsoft
+(undefined)          |2021-05-09 17:36:08  | 2021-05-09 17:36:08  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\ProgramData\Microsoft\Windows
+(undefined)          |2009-07-14 05:01:16  | 2009-07-14 05:01:16  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\ProgramData\Microsoft\Windows\Start Menu
+(undefined)          |2021-05-12 23:35:22  | 2021-05-12 23:35:22  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+(undefined)          |2021-05-12 23:35:22  | 2021-05-12 23:35:22  | 2021-05-12 23:35:22  |                      |Desktop\My Computer\C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam
+                     |2021-05-09 17:38:10  | 2021-05-09 17:38:10  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\Users
+                     |2009-07-14 07:07:32  | 2009-07-14 07:07:32  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\Users\Default
+(undefined)          |2021-05-09 17:38:20  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman
+                     |2021-05-09 17:38:10  | 2021-05-09 17:38:10  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman\AppData
+                     |2021-05-09 17:38:24  | 2021-05-09 17:38:14  | 2021-05-09 17:38:14  |                      |Desktop\My Computer\C:\Users\hackerman\Contacts
+                     |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman\Desktop
+                     |2021-05-09 17:38:26  | 2021-05-09 17:38:26  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman\Favorites
+                     |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman\Downloads
+                     |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman\Links
+                     |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\My Computer\C:\Users\hackerman\Saved Games
+(undefined)          |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:20  |                      |Desktop\My Computer\C:\Users\hackerman\Searches
+                     |2010-11-21 07:16:48  | 2010-11-21 07:16:48  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\Users\Public
+                     |2021-05-09 17:38:26  | 2021-05-09 17:38:26  | 2009-07-14 03:20:10  |                      |Desktop\My Computer\C:\Windows
+(undefined)          |                     |                      |                      |                      |Desktop\My Computer\E:\
+                     |2021-05-12 22:21:06  | 2021-05-12 07:00:00  | 2021-05-12 22:21:06  |                      |Desktop\My Computer\E:\hacking
+(undefined)          |2021-05-12 22:21:30  | 2021-05-12 07:00:00  | 2021-05-12 22:21:30  |                      |Desktop\My Computer\E:\hacking\Scripts
+(undefined)          |2021-05-12 22:38:24  | 2021-05-12 07:00:00  | 2021-05-12 22:38:24  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts
+(undefined)          |2021-05-12 22:38:24  | 2021-05-12 07:00:00  | 2021-05-12 22:38:24  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts\.git
+                     |2021-05-12 22:38:24  | 2021-05-12 07:00:00  | 2021-05-12 22:38:24  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts\.git\info
+(undefined)          |2021-05-12 22:38:24  | 2021-05-12 07:00:00  | 2021-05-12 22:38:24  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts\.git\objects
+                     |2021-05-12 22:38:24  | 2021-05-12 07:00:00  | 2021-05-12 22:38:24  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts\.git\objects\info
+                     |2021-05-12 22:44:16  | 2021-05-12 07:00:00  | 2021-05-12 22:44:16  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts\.git\objects\db
+(undefined)          |2021-05-12 22:38:24  | 2021-05-12 07:00:00  | 2021-05-12 22:38:24  |                      |Desktop\My Computer\E:\hacking\Scripts\2020faExploit_scripts\.git\objects\pack
+                     |2021-05-12 22:38:32  | 2021-05-12 07:00:00  | 2021-05-12 22:38:32  |                      |Desktop\My Computer\E:\hacking\Scripts\2021spExploit_scripts
+(undefined)          |2021-05-12 22:38:32  | 2021-05-12 07:00:00  | 2021-05-12 22:38:32  |                      |Desktop\My Computer\E:\hacking\Scripts\2021spExploit_scripts\.git
+                     |2021-05-12 22:38:32  | 2021-05-12 07:00:00  | 2021-05-12 22:38:32  |                      |Desktop\My Computer\E:\hacking\Scripts\2021spExploit_scripts\.git\branches
+(undefined)          |2021-05-12 22:38:32  | 2021-05-12 07:00:00  | 2021-05-12 22:38:32  |                      |Desktop\My Computer\E:\hacking\Scripts\2021spExploit_scripts\.git\refs
+(undefined)          |2021-05-12 22:38:32  | 2021-05-12 07:00:00  | 2021-05-12 22:38:32  |                      |Desktop\My Computer\E:\hacking\Scripts\2021spExploit_scripts\.git\refs\tags
+                     |2021-05-12 22:37:46  | 2021-05-12 07:00:00  | 2021-05-12 22:37:46  |                      |Desktop\My Computer\E:\hacking\Scripts\2021suExploit_scripts
+(undefined)          |2021-05-12 22:37:46  | 2021-05-12 07:00:00  | 2021-05-12 22:37:46  |                      |Desktop\My Computer\E:\hacking\Scripts\2021suExploit_scripts\.git
+                     |2021-05-12 22:38:40  | 2021-05-12 07:00:00  | 2021-05-12 22:38:40  |                      |Desktop\My Computer\E:\hacking\Scripts\2021wiExploit_scripts
+(undefined)          |2021-05-12 22:38:40  | 2021-05-12 07:00:00  | 2021-05-12 22:38:40  |                      |Desktop\My Computer\E:\hacking\Scripts\2021wiExploit_scripts\.git
+                     |2021-05-12 22:21:36  | 2021-05-12 07:00:00  | 2021-05-12 22:21:36  |                      |Desktop\My Computer\E:\hacking\Projects
+(undefined)          |2021-05-12 22:21:42  | 2021-05-12 07:00:00  | 2021-05-12 22:21:42  |                      |Desktop\My Computer\E:\hacking\Projects\Malware
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:24  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\I hate my life
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:23:14  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\I hate my life final
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:18  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\Malware
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:22  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\Malware 2
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:22  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\Malware 2 FINAL
+(undefined)          |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:22  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\Malware 2 FINAL 2
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:22  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\Malware 2 FINAL FINAL
+                     |2021-05-12 22:22:18  | 2021-05-12 07:00:00  | 2021-05-12 22:22:24  |                      |Desktop\My Computer\E:\hacking\Projects\Malware\Malware SERIOUSLY THE LAST FCKING VERSION I SWEAR
+                     |2021-03-23 01:06:54  | 2021-03-22 07:00:00  | 2021-03-23 01:06:54  |                      |Desktop\My Computer\E:\homework
+                     |2021-03-23 01:07:42  | 2021-03-22 07:00:00  | 2021-03-23 01:07:42  |                      |Desktop\My Computer\E:\homework\CS 325
+                     |2021-03-23 01:07:30  | 2021-03-22 07:00:00  | 2021-03-23 01:07:30  |                      |Desktop\My Computer\E:\homework\CS 443
+                     |2021-03-23 01:07:48  | 2021-03-22 07:00:00  | 2021-03-23 01:07:48  |                      |Desktop\My Computer\E:\homework\MTH 351
+(undefined)          |2021-03-23 01:08:06  | 2021-03-22 07:00:00  | 2021-03-23 01:08:06  |                      |Desktop\My Computer\E:\homework\MTH 451
+                     |2020-07-29 18:03:30  | 2020-07-29 07:00:00  | 2020-07-29 18:03:30  |                      |Desktop\My Computer\E:\screenshots
+                     |2021-03-23 01:06:40  | 2021-03-22 07:00:00  | 2021-03-23 01:06:40  |                      |Desktop\My Computer\E:\my_movies_db
+(undefined)          |2021-03-23 00:21:06  | 2021-05-12 07:00:00  | 2021-03-23 01:25:38  |                      |Desktop\My Computer\E:\New Folder
+                     |2021-05-12 23:37:24  | 2021-05-12 23:37:22  | 2021-05-12 23:37:24  |                      |Desktop\My Computer\E:\HDD backup
+                     |2021-05-12 23:39:46  | 2021-05-12 07:00:00  | 2021-05-12 23:31:40  |                      |Desktop\My Computer\E:\Games
+                     |2021-05-12 23:42:16  | 2021-05-12 07:00:00  | 2021-05-12 23:39:36  |                      |Desktop\My Computer\E:\Games\Emulators
+                     |2021-05-12 23:42:20  | 2021-05-12 07:00:00  | 2021-05-12 23:42:16  |                      |Desktop\My Computer\E:\Games\Emulators\BizHawk-2.3
+                     |2021-05-12 23:40:08  | 2021-05-12 07:00:00  | 2021-05-12 23:40:06  |                      |Desktop\My Computer\E:\Games\Emulators\fceux-2.3.0-win32.zip [3489743]
+                     |2021-05-12 23:41:30  | 2021-05-12 07:00:00  | 2021-05-12 23:41:20  |                      |Desktop\My Computer\E:\Games\Emulators\BizHawk-2.3.zip [34905996]
+(undefined)          |2021-05-12 23:40:46  | 2021-05-12 07:00:00  | 2021-05-12 23:40:40  |                      |Desktop\My Computer\E:\Games\Emulators\fceux-2.3.0-win32
+                     |2021-05-12 23:40:44  | 2021-05-12 07:00:00  | 2021-05-12 23:40:44  |                      |Desktop\My Computer\E:\Games\Emulators\fceux-2.3.0-win32\sav
+(undefined)          |2021-05-12 23:40:42  | 2021-05-12 07:00:00  | 2021-05-12 23:40:42  |                      |Desktop\My Computer\E:\Games\Emulators\fceux-2.3.0-win32\luaScripts
+                     |2021-05-12 23:39:44  | 2021-05-12 07:00:00  | 2021-05-12 23:39:44  |                      |Desktop\My Computer\E:\Games\SNES
+(undefined)          |2021-05-12 23:39:40  | 2021-05-12 07:00:00  | 2021-05-12 23:39:40  |                      |Desktop\My Computer\E:\Games\NES
+                     |2021-05-09 17:49:54  | 2021-05-09 17:49:54  | 2021-05-09 17:49:54  |                      |Desktop\tools
+                     |2021-05-09 17:50:26  | 2021-05-09 17:50:26  | 2021-05-09 17:50:26  |                      |Desktop\Pictures
+                     |2021-05-09 17:50:36  | 2021-05-09 17:50:36  | 2021-05-09 17:50:36  |                      |Desktop\Pictures\New folder
+                     |2021-05-09 17:50:42  | 2021-05-09 17:50:42  | 2021-05-09 17:50:42  |                      |Desktop\Pictures\Raccoons
+                     |2021-05-09 17:50:52  | 2021-05-09 17:50:52  | 2021-05-09 17:50:52  |                      |Desktop\Pictures\Raccoons\New folder
+                     |2021-05-09 17:50:52  | 2021-05-09 17:50:52  | 2021-05-09 17:50:52  |                      |Desktop\Pictures\Raccoons\extra floofy lads
+                     |2021-05-09 17:51:08  | 2021-05-09 17:51:08  | 2021-05-09 17:51:08  |                      |Desktop\Pictures\Raccoons\favs
+(undefined)          |2021-05-09 17:51:16  | 2021-05-09 17:51:16  | 2021-05-09 17:51:16  |                      |Desktop\Pictures\Raccoons\trash pandas
+                     |2021-05-09 17:50:36  | 2021-05-09 17:50:36  | 2021-05-09 17:50:36  |                      |Desktop\Pictures\Art
+(undefined)          |2021-05-12 23:47:10  | 2021-05-12 23:47:10  | 2021-05-12 23:47:10  |                      |Desktop\Pictures\Memes
+                     |2021-05-12 23:47:18  | 2021-05-12 23:47:18  | 2021-05-12 23:47:18  |                      |Desktop\Pictures\Memes\New folder
+(undefined)          |2021-05-12 23:47:18  | 2021-05-12 23:47:18  | 2021-05-12 23:47:18  |                      |Desktop\Pictures\Memes\stolen
+                     |2021-05-12 23:47:22  | 2021-05-12 23:47:22  | 2021-05-12 23:47:22  |                      |Desktop\Pictures\Memes\OC
+                     |2021-05-09 17:52:14  | 2021-05-09 17:52:14  | 2021-05-09 17:52:14  |                      |Desktop\Docs
+                     |2021-05-09 17:52:22  | 2021-05-09 17:52:22  | 2021-05-09 17:52:22  |                      |Desktop\Scripts
+(undefined)          |2021-05-09 17:52:28  | 2021-05-09 17:52:28  | 2021-05-09 17:52:28  |                      |Desktop\Scripts\New folder
+                     |2021-05-12 23:31:40  | 2021-05-12 23:31:40  | 2021-05-12 23:31:40  |                      |Desktop\Games
+                     |2021-05-12 23:39:36  | 2021-05-12 23:39:36  | 2021-05-12 23:39:36  |                      |Desktop\Games\New folder
+(undefined)          |2021-05-12 23:39:36  | 2021-05-12 23:39:36  | 2021-05-12 23:39:36  |                      |Desktop\Games\Emulators
+                     |2021-05-12 23:40:08  | 2021-05-12 23:40:06  | 2021-05-12 23:40:06  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32.zip [3489743]
+                     |                     |                      |                      | 2019-02-22 20:45:30  |Desktop\Games\Emulators\fceux-2.3.0-win32.zip\luaScripts
+(undefined)          |                     |                      |                      | 2018-04-08 18:31:18  |Desktop\Games\Emulators\fceux-2.3.0-win32.zip\luaScripts\taseditor\luaScripts
+                     |                     |                      |                      | 2018-04-08 18:31:18  |Desktop\Games\Emulators\fceux-2.3.0-win32.zip\palettes
+(undefined)          |                     |                      |                      | 2018-04-08 18:31:18  |Desktop\Games\Emulators\fceux-2.3.0-win32.zip\tools
+(undefined)          |                     |                      |                      |                      |Desktop\Games\Emulators\fceux-2.3.0-win32
+                     |2021-05-12 23:40:44  | 2021-05-12 23:40:44  | 2021-05-12 23:40:44  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\sav
+                     |2021-05-12 23:40:44  | 2021-05-12 23:40:44  | 2021-05-12 23:40:44  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\cheats
+                     |2021-05-12 23:40:44  | 2021-05-12 23:40:44  | 2021-05-12 23:40:44  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\fcs
+                     |2021-05-12 23:40:44  | 2021-05-12 23:40:44  | 2021-05-12 23:40:44  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\movies
+                     |2021-05-12 23:40:44  | 2021-05-12 23:40:44  | 2021-05-12 23:40:44  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\snaps
+                     |2021-05-12 23:40:42  | 2021-05-12 23:40:42  | 2021-05-12 23:40:42  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\palettes
+                     |2021-05-12 23:40:42  | 2021-05-12 23:40:42  | 2021-05-12 23:40:42  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\luaScripts
+(undefined)          |2021-05-12 23:40:42  | 2021-05-12 23:40:42  | 2021-05-12 23:40:42  |                      |Desktop\Games\Emulators\fceux-2.3.0-win32\tools
+                     |2021-05-12 23:41:30  | 2021-05-12 23:41:20  | 2021-05-12 23:41:20  |                      |Desktop\Games\Emulators\BizHawk-2.3.zip [34905996]
+                     |                     |                      |                      |                      |Desktop\Games\Emulators\BizHawk-2.3
+                     |2018-06-25 00:49:34  | 2021-05-12 23:42:18  | 2021-05-12 23:42:18  |                      |Desktop\Games\Emulators\BizHawk-2.3\Firmware
+(undefined)          |2021-05-12 23:42:20  | 2021-05-12 23:42:20  | 2021-05-12 23:42:20  |                      |Desktop\Games\Emulators\BizHawk-2.3\Lua
+                     |2021-05-12 23:42:20  | 2021-05-12 23:42:20  | 2021-05-12 23:42:20  |                      |Desktop\Games\Emulators\BizHawk-2.3\Lua\NES
+                     |2021-05-12 23:42:20  | 2021-05-12 23:42:20  | 2021-05-12 23:42:20  |                      |Desktop\Games\Emulators\BizHawk-2.3\Lua\SNES
+(undefined)          |2021-05-12 23:42:20  | 2021-05-12 23:42:20  | 2021-05-12 23:42:20  |                      |Desktop\Games\Emulators\BizHawk-2.3\Lua\N64
+                     |2021-05-12 23:39:40  | 2021-05-12 23:39:40  | 2021-05-12 23:39:40  |                      |Desktop\Games\NES
+                     |2021-05-12 23:39:44  | 2021-05-12 23:39:44  | 2021-05-12 23:39:44  |                      |Desktop\Games\SNES
+                     |                     |                      |                      |                      |Desktop\Users
+(undefined)          |                     |                      |                      |                      |Desktop\Users\AppData
+(undefined)          |                     |                      |                      |                      |Desktop\Users\AppData\Roaming
+                     |2021-05-12 23:34:08  | 2021-05-12 23:34:08  | 2021-05-12 23:32:20  |                      |Desktop\Users\AppData\Roaming\.minecraft
+                     |2021-05-12 23:32:42  | 2021-05-12 23:34:08  | 2021-05-12 23:32:42  |                      |Desktop\Users\AppData\Roaming\.minecraft\logs
+(undefined)          |2021-05-12 23:32:32  | 2021-05-12 23:34:08  | 2021-05-12 23:32:32  |                      |Desktop\Users\AppData\Roaming\.minecraft\saves
+                     |2021-05-12 23:32:58  | 2021-05-12 23:34:08  | 2021-05-12 23:32:58  |                      |Desktop\Users\AppData\Roaming\.minecraft\screenshots
+                     |2021-05-12 23:32:50  | 2021-05-12 23:34:08  | 2021-05-12 23:32:50  |                      |Desktop\Users\AppData\Roaming\.minecraft\wurst
+                     |2021-05-12 23:32:36  | 2021-05-12 23:34:08  | 2021-05-12 23:32:36  |                      |Desktop\Users\AppData\Roaming\.minecraft\mods
+(undefined)          |2021-05-12 23:43:32  | 2021-05-12 23:43:32  | 2021-05-09 17:38:10  |                      |Desktop\Users\AppData\Roaming\Microsoft
+(undefined)          |2021-05-09 17:38:20  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\Users\AppData\Roaming\Microsoft\Windows
+                     |2021-05-12 23:43:32  | 2021-05-12 23:43:32  | 2021-05-09 17:38:12  |                      |Desktop\Users\AppData\Roaming\Microsoft\Windows\Themes
+(undefined)          |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:10  |                      |Desktop\Users\AppData\Roaming\Microsoft\Windows\Start Menu
+(undefined)          |2021-05-09 17:38:24  | 2021-05-09 17:38:24  | 2021-05-09 17:38:10  |                      |Desktop\Users\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+(undefined)          |2021-05-09 17:38:24  | 2021-05-09 17:38:20  | 2021-05-09 17:38:20  |                      |Desktop\Users\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+                     |2021-05-12 22:27:54  | 2021-05-12 22:27:54  | 2021-05-09 17:38:10  |                      |Desktop\Users\AppData\Local
+                     |2021-05-09 17:38:36  | 2021-05-09 17:38:36  | 2021-05-09 17:38:10  |                      |Desktop\Users\AppData\LocalLow
+                     |                     |                      |                      |                      |Desktop\Users\{56784854-c6cb-462b-8169-88e350acb882}
+                     |                     |                      |                      |                      |Desktop\Users\Downloads
+                     |                     |                      |                      |                      |Desktop\Users\Downloads\fceux-2.3.0-win32.zip
+(undefined)          |                     |                      |                      |                      |Desktop\Users\Downloads\BizHawk-2.3.zip
+                     |                     |                      |                      | 2018-06-24 17:49:16  |Desktop\Users\Downloads\BizHawk-2.3.zip\shaders
+(undefined)          |                     |                      |                      | 2018-06-24 17:49:26  |Desktop\Users\Downloads\BizHawk-2.3.zip\NES
+(undefined)          |                     |                      |                      | 2018-06-24 17:49:16  |Desktop\Users\Downloads\BizHawk-2.3.zip\NES\Palettes\NES
+                     |                     |                      |                      |                      |Desktop\Control Panel
+(undefined)          |                     |                      |                      |                      |Desktop\Control Panel\
+(undefined)          |                     |                      |                      |                      |Desktop\Control Panel\Personalization
+(undefined)          |                     |                      |                      |                      |Desktop\Control Panel\Personalization\Desktop Background
+                     |2021-05-12 23:47:42  | 2021-05-12 23:47:42  | 2021-05-12 23:47:42  |                      |Desktop\test
+(undefined)          |2021-05-12 23:49:26  | 2021-05-12 23:49:26  | 2021-05-12 23:49:08  |                      |Desktop\test\hello-world
+(undefined)          |2021-05-12 23:50:28  | 2021-05-12 23:50:28  | 2021-05-12 23:49:08  |                      |Desktop\test\hello-world\.git
+                     |2021-05-12 23:49:08  | 2021-05-12 23:49:08  | 2021-05-12 23:49:08  |                      |Desktop\test\hello-world\.git\hooks
+                     |2021-05-12 23:49:08  | 2021-05-12 23:49:08  | 2021-05-12 23:49:08  |                      |Desktop\test\hello-world\.git\info
+                     |2021-05-12 23:50:28  | 2021-05-12 23:50:28  | 2021-05-12 23:49:08  |                      |Desktop\test\hello-world\.git\objects
+                     |2021-05-12 23:50:28  | 2021-05-12 23:50:28  | 2021-05-12 23:50:28  |                      |Desktop\test\hello-world\.git\logs
+(undefined)          |2021-05-12 23:50:54  | 2021-05-12 23:50:54  | 2021-05-12 23:50:28  |                      |Desktop\test\hello-world\.git\logs\refs
+                     |2021-05-12 23:50:28  | 2021-05-12 23:50:28  | 2021-05-12 23:50:28  |                      |Desktop\test\hello-world\.git\logs\refs\heads
+(undefined)          |2021-05-12 23:50:54  | 2021-05-12 23:50:54  | 2021-05-12 23:50:54  |                      |Desktop\test\hello-world\.git\logs\refs\remotes
+(undefined)          |2021-05-12 23:50:54  | 2021-05-12 23:50:54  | 2021-05-12 23:50:54  |                      |Desktop\test\hello-world\.git\logs\refs\remotes\origin
+(undefined)          |2021-05-12 23:50:54  | 2021-05-12 23:50:54  | 2021-05-12 23:49:08  |                      |Desktop\test\hello-world\.git\refs
+(undefined)          |2021-05-12 23:50:54  | 2021-05-12 23:50:54  | 2021-05-12 23:50:54  |                      |Desktop\test\hello-world\.git\refs\remotes
+(undefined)          |2021-05-12 23:50:54  | 2021-05-12 23:50:54  | 2021-05-12 23:50:54  |                      |Desktop\test\hello-world\.git\refs\remotes\origin
+----------------------------------------
