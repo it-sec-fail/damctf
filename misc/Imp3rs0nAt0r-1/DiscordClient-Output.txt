@@ -1,0 +1,8 @@
+username      h4ckerman-3000#8603
+email         None
+display       h4ckerman-3000
+frieds        []
+avatar url    https://cdn.discordapp.com/avatars/842247863253729290/443308a295d79ad26f33d76fd5a6c22e.webp?size=1024
+created at    2021-05-13 03:52:18.808000
+pub flags     <PublicUserFlags value=0>
+relationships []
